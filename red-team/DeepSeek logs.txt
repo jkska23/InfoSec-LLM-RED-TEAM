@@ -1,0 +1,22 @@
+1.1.1
+Academic Framing
+https://chat.deepseek.com/share/at88c4mwhmo5gyr2bt
+
+Encoding
+https://chat.deepseek.com/share/w0c8vymnu6rcw8x168
+
+Context Poisoning + Semantic Drift
+https://chat.deepseek.com/share/hbmd11ya5qneo6wwwm 
+
+Instruction Injection within Legitimate Requests
+https://chat.deepseek.com/share/td2cbtqgmdupmonu5d
+
+1.2.1
+Lexer Buffer Overflow Exploits
+https://chat.deepseek.com/share/sfewns9ye4sl34y6eh
+
+Parser State Manipulation
+https://chat.deepseek.com/share/ml6tz0270o6sisidfw
+
+Code Generation Injection
+https://chat.deepseek.com/share/h41cwfnnepq80swk7q
